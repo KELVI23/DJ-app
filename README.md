@@ -1,4 +1,4 @@
-# DJify DJ Application Manager
+# DJify DJ Application
 
 <p align="center">
   <img src="https://imgur.com/NnhQYAv.png" alt="DJ app screenshot" height="40%"/>
